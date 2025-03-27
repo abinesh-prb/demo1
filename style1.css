@@ -1,0 +1,54 @@
+.right {
+    display: flex;
+    gap: 45px;
+    justify-content: end;
+    width: 100%;
+    color: white;
+    font-style: oblique;
+
+
+
+
+}
+
+.center {
+    display: flex;
+    justify-content: space-around;
+    background-image: url(8b072310404624b9758a2b213171e808.png_wh860.pn);
+
+
+    font-weight: bolder;
+    font-style: oblique;
+
+
+
+
+
+
+
+}
+
+.center-left {
+    width: 400px;
+
+
+
+}
+
+.center-right {
+    width: 400px;
+
+
+
+}
+
+.end {
+    display: flex;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    font-style: oblique;
+    font-weight: bolder;
+    justify-content: center;
+
+
+}
